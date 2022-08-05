@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TinyEventBusApp/.vs
+/TinyEventBusApp/Component/bin/Debug/net6.0
+/TinyEventBusApp/Component/obj/Debug/net6.0
+/TinyEventBusApp/Component/obj
+/TinyEventBusApp/EventBus/bin/Debug/net6.0
+/TinyEventBusApp/EventBus/obj
+/TinyEventBusApp/EventBusDataContracts/bin/Debug/net6.0
+/TinyEventBusApp/EventBusDataContracts/obj
+/TinyEventBusApp/TinyEventBusApp/bin/Debug/net6.0
+/TinyEventBusApp/TinyEventBusApp/obj
